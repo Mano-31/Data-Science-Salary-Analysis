@@ -1,42 +1,50 @@
-# Data-Science-Salary-Analysis
 # Data Science Job Salary Analysis Dashboard
 
 ## Project Overview
-This Power BI dashboard analyzes data science job salaries across different experience levels, company sizes, locations, and remote work types.
+This project analyzes Data Science job salaries using Python, Excel, and Power BI.
 
-## Tools Used
-- Power BI
-- Power Query
-- DAX
-- Data Visualization
+The dashboard provides insights into:
 
-## Dataset
-- 607 Job Records
-- 50 Job Roles
-- Salary Data in USD
-
-## Dashboard Features
-- Average Salary KPI
-- Total Job Roles KPI
-- Maximum Salary KPI
+- Average Salary
+- Maximum Salary
+- Total Job Roles
 - Salary by Experience Level
 - Salary Trend by Year
-- Top 10 Highest Paying Job Titles
 - Salary by Company Size
 - Remote Work Distribution
 - Top Hiring Countries
-- Interactive Filters
+- Top 10 Highest Paying Job Titles
 
-## Key Insights
-- Executive-level professionals earn the highest salaries.
-- Salary trends show growth over the years.
-- Large companies generally offer higher salaries.
-- Remote work opportunities are significant in data science roles.
-- The United States leads in hiring data science professionals.
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Excel
+- Power BI
+
+## Dataset
+
+The dataset contains information about:
+
+- Job Title
+- Salary
+- Experience Level
+- Employment Type
+- Company Size
+- Company Location
+- Remote Ratio
+- Work Year
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/Mano-31/Data-Science-Salary-Analysis/blob/main/dashboard_screenshot.png%20(1).jpg)
+![Dashboard](dashboard_screenshot.png)
 
-## Author
-Manogaran P
+## Key Insights
+
+- Executive-level professionals earn the highest salaries.
+- Large companies offer higher average salaries.
+- Remote jobs represent a significant share of opportunities.
+- Data Science Director is among the highest-paying roles.
+
+## Repository Structure
