@@ -47,4 +47,8 @@ The dataset contains information about:
 - Remote jobs represent a significant share of opportunities.
 - Data Science Director is among the highest-paying roles.
 
-## Repository Structure
+## Author
+
+Manogaran P
+
+LinkedIn: https://www.linkedin.com/in/manogaran-p-892944371?utm_source=share_via&utm_content=profile&utm_medium=member_android
