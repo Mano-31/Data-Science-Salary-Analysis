@@ -38,7 +38,7 @@ The dataset contains information about:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](https://github.com/Mano-31/Data-Science-Salary-Analysis/blob/main/dashboard_screenshot.png%20(1).jpg)
 
 ## Key Insights
 
