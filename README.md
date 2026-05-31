@@ -36,7 +36,7 @@ This Power BI dashboard analyzes data science job salaries across different expe
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png.jpg)
 
 ## Author
 Manogaran
